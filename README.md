@@ -39,8 +39,10 @@ This project analyzes a heart disease dataset to explore how clinical measuremen
 
 ## Project Structure
 ```
-├── EDA03_heart.ipynb   # Main analysis notebook
-├── EDA03_Heart.csv     # Dataset (not included — see source)
+├── EDA03_heart.ipynb
+|
+├── EDA03_Heart.csv
+|
 └── README.md
 ```
 
